@@ -1,2 +1,3 @@
 # ShanEllis.github.io
-Shannon's personal website
+Shannon's Website
+View the website at http://ShanEllis.github.io.
