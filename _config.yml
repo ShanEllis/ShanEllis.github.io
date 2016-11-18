@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Shannon Ellis 
 tagline:          'Postdoctoral Fellow'
-description:      'Find me online <a href="http://twitter.com/Shannon_E_Ellis">@Shannon_E_Ellis</a>, or on <a href="https://github.com/ShanEllis">ShanEllis</a> .'
+description:      'Find me on twitter <a href="http://twitter.com/Shannon_E_Ellis">@Shannon_E_Ellis</a> or on <a href="https://github.com/ShanEllis">GitHub</a> .'
 url:              https://shanellis.github.io/
 baseurl:          /
 
@@ -19,8 +19,7 @@ author:
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
+
 
 github:
   repo:           https://github.com/ShanEllis/ShanEllis.github.io
