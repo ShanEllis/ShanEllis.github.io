@@ -23,4 +23,4 @@ More info on my [Google Scholar profile](https://scholar.google.com/citations?us
 
 
 ### 2013
-*Ellis SE, Gupta S, Ashar FN, Bader JS, West AB, Arking DE. (2013) _RNA-Seq optimization with eQTL gold standards_ BMC Genomics doi: 10.1186/1471-2164-14-892 [[link]](http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-892)
+* Ellis SE, Gupta S, Ashar FN, Bader JS, West AB, Arking DE. (2013) _RNA-Seq optimization with eQTL gold standards_ BMC Genomics doi: 10.1186/1471-2164-14-892 [[link]](http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-892)
