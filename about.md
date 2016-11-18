@@ -1,30 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I  finished up my Ph.D. in human genetics with [Dan Arking](http://www.arkinglab.org/) in the [Institute of Genetic Medicine](https://igm.jhmi.edu/) at the Johns Hopkins Univeristy School of Medicine in June of 2016. My graduate work focused on improving our understanding of the basis of autism. To do this, I used post-morem cortical brain samples from autism cases and controls to study alterations in [gene expression]() and [methylation](http://biorxiv.org/content/early/2016/08/15/069120).
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+As my interests lay in genomic data analysis, I began a postdoc with Jeff Leek in July of 2016. Since starting I've been working with the data in *[recount](https://jhubiostatistics.shinyapps.io/recount/)* to build phenotype predictors capable of accurately predicting tissue, sex, and age. Additionally, I'll be working to identify technical artifacts within these data and removing their effects, allowing for accurate downstream analysis.  
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+When I'm not analyzing data, cursing myself for a bug in my code, or writing about these endeavors, I harbor mild obsessions for beach volleyball, FiveThirtyEight, baking, and riding my bike all around Baltimore. 
