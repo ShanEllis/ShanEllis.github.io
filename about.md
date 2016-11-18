@@ -9,4 +9,4 @@ As my interests lay in genomic data analysis, I began a postdoc with [Jeff Leek]
 
 I really like pristine data sets. However, biology and experiments are messy. Fortunately, I also really enjoy figuring what's going on with any particular large data set. And, as I'm interested in human disease and genetics generally, rather than focused on any particular disease, I'm most interested in analyzing human data carefully, no matter what the phenotype.
 
-When I'm not analyzing data, cursing myself for a bug in my code, or writing about these endeavors, I harbor reaasonable obsessions for beach volleyball, [FiveThirtyEight](http://fivethirtyeight.com/), baking, and riding my bike all around Baltimore. 
+When I'm not analyzing data, cursing myself for a bug in my code, or writing about these endeavors, I harbor reasonable obsessions for beach volleyball, [FiveThirtyEight](http://fivethirtyeight.com/), baking, and riding my bike all around Baltimore. 
