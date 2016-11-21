@@ -389,7 +389,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Catamaran', sans-serif;
   color: #ccc;
   text-align: center;
 }
