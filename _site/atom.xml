@@ -4,13 +4,22 @@
  <title>Shannon Ellis</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-22T13:34:09-05:00</updated>
+ <updated>2016-11-22T13:57:49-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Shannon Ellis</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>test</title>
+   <link href="http://localhost:4000/2016/11/22/test/"/>
+   <updated>2016-11-22T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2016/11/22/test</id>
+   <content type="html">&lt;p&gt;test&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Welcome!</title>
