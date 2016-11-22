@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Shannon](https://github.com/ShanEllis/ShanEllis.github.io/blob/master/images/Shannon.jpg)
+![Shannon](../images/Shannon.jpg)
 
 I  finished up my Ph.D. in human genetics with [Dan Arking](http://www.arkinglab.org/) in the [Institute of Genetic Medicine](https://igm.jhmi.edu/) at the Johns Hopkins Univeristy School of Medicine in June of 2016. My graduate work focused on improving our understanding of the basis of autism. To do this, I used post-morem cortical brain samples from autism cases and controls to study alterations in [gene expression]() and [methylation](http://biorxiv.org/content/early/2016/08/15/069120).  
    
