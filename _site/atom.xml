@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Shannon Ellis</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2016-11-22T13:34:09-05:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Shannon Ellis</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome!</title>
+   <link href="http://localhost:4000/2016/11/18/Welcome/"/>
+   <updated>2016-11-18T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2016/11/18/Welcome</id>
+   <content type="html">&lt;p&gt;I’m a postdoctoral fellow in the &lt;a href=&quot;http://www.jhsph.edu/departments/biostatistics/&quot;&gt;biostatistics department&lt;/a&gt; at the &lt;a href=&quot;http://www.jhsph.edu/&quot;&gt;Johns Hopkins Bloomberg School of Public Health&lt;/a&gt; where I am super fortunate to work with a ton of great people in &lt;a href=&quot;http://jtleek.com/&quot;&gt;Jeff Leek&lt;/a&gt;’s group.&lt;/p&gt;
+
+&lt;p&gt;I can be best reached by email at &lt;strong&gt;sellis18 at jhmi dot edu&lt;/strong&gt;, but you can also find me on &lt;a href=&quot;https://twitter.com/Shannon_E_Ellis&quot;&gt;twitter&lt;/a&gt; or in my office (&lt;strong&gt;JHSPH E3011&lt;/strong&gt;).&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
