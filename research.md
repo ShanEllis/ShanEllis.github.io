@@ -3,7 +3,6 @@ layout: page
 title: Research
 ---
 
-I'm a postdoctoral fellow in the [biostatistics department](http://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/) where I am super fortunate to work with a ton of great people in [Jeff Leek](http://jtleek.com/)'s group. 
 
 ### The *recount* project
 
