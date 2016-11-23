@@ -4,7 +4,7 @@
  <title>Shannon Ellis</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-23T10:57:14-05:00</updated>
+ <updated>2016-11-23T11:40:21-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Shannon Ellis</name>
@@ -13,26 +13,25 @@
 
  
  <entry>
-   <title>Leek Group Colors!</title>
+   <title>Leek Group Colors</title>
    <link href="http://localhost:4000/2016/11/23/Colors/"/>
    <updated>2016-11-23T00:00:00-05:00</updated>
    <id>http://localhost:4000/2016/11/23/Colors</id>
    <content type="html">&lt;p&gt;Let me start off by being clear. We are by &lt;em&gt;no means&lt;/em&gt; the first people to ask &lt;a href=&quot;http://colorbrewer2.org/&quot;&gt;which&lt;/a&gt; &lt;a href=&quot;https://github.com/karthik/wesanderson&quot;&gt;color&lt;/a&gt; &lt;a href=&quot;https://github.com/dill/beyonce&quot;&gt;palettes&lt;/a&gt; are best for graphing. Further, I fully admit that we entered into this quickly and did not read the literature throroughly nor think through &lt;em&gt;all&lt;/em&gt; the possibilities that one should consider when embarking upon a proper research project. Which, to be fair, is why this is a blog post (and not a paper).&lt;/p&gt;
 
-&lt;p&gt;We probably aren’t even the first mentor and mentee to have the following &lt;del&gt;argument&lt;/del&gt; discussion:&lt;br /&gt;
-&lt;strong&gt;Shannon&lt;/strong&gt;: Well, and this is not a sexist comment, males don’t differentiate colors as well as females.&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://jtleek.com/&quot;&gt;Jeff&lt;/a&gt; and I probably aren’t even the first mentor and mentee to have the following &lt;del&gt;disagreement&lt;/del&gt; discussion:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shannon&lt;/strong&gt;: Well, and this is not a sexist comment, males don’t differentiate colors as well as females.&lt;br /&gt;
 &lt;strong&gt;Jeff&lt;/strong&gt;: What? Yes, that is sexist!&lt;br /&gt;
 &lt;strong&gt;Shannon&lt;/strong&gt;: No, it’s not. It’s a thing.&lt;br /&gt;
 &lt;strong&gt;Jeff&lt;/strong&gt;: Are you sure?&lt;br /&gt;
 &lt;strong&gt;Shannon&lt;/strong&gt;: I think so…&lt;br /&gt;
 &lt;strong&gt;Jeff&lt;/strong&gt;: Let’s test it.&lt;/p&gt;
 
-&lt;p&gt;But, alas, the desires to (&lt;strong&gt;1&lt;/strong&gt;) develop a “Leek Group” color palette and plotting style and (&lt;strong&gt;2&lt;/strong&gt;) determine whether or not males and females discriminate colors equally well were born.&lt;/p&gt;
-
-&lt;p&gt;And, so, we asked the internet to take a &lt;a href=&quot;https://goo.gl/forms/rKbea6EWKxFdNpOw2&quot;&gt;quiz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With that, the desires to (&lt;strong&gt;1&lt;/strong&gt;) develop a “Leek Group” color palette and plotting style and (&lt;strong&gt;2&lt;/strong&gt;) determine whether or not males and females discriminate colors equally well were born. And, so, we asked the internet to take a &lt;a href=&quot;https://goo.gl/forms/rKbea6EWKxFdNpOw2&quot;&gt;quiz&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;quiz-participants&quot;&gt;Quiz Participants&lt;/h3&gt;
-&lt;p&gt;After removing duplicate responses, keeping only the most recent response from any one individual (nice try, you guys!), we had &lt;strong&gt;426 responses&lt;/strong&gt; from &lt;strong&gt;198 females (46.0%)&lt;/strong&gt;, &lt;strong&gt;219 males (51.8%)&lt;/strong&gt;, &lt;strong&gt;1 nonbinary individual (0.2%)&lt;/strong&gt;, and &lt;strong&gt;7 people who preferred not to say (1.6%)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;After removing duplicate responses, keeping only the most recent response from any individual (nice try, you guys!), we had &lt;strong&gt;426 responses&lt;/strong&gt; from &lt;strong&gt;198 females (46.0%)&lt;/strong&gt;, &lt;strong&gt;219 males (51.8%)&lt;/strong&gt;, &lt;strong&gt;1 nonbinary individual (0.2%)&lt;/strong&gt;, and &lt;strong&gt;7 people who preferred not to say (1.6%)&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;color-palettes&quot;&gt;Color Palettes&lt;/h3&gt;
 &lt;p&gt;To remind those who took the quiz and catch the rest of you who didn’t up to speed, these were the color palettes being considered:&lt;/p&gt;
@@ -45,41 +44,36 @@
 
 &lt;p&gt;&lt;img src=&quot;ShanEllis.github.io/images/PalettePreference.png&quot; alt=&quot;Preferences&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;There was no &lt;em&gt;overwhelmingly popular&lt;/em&gt; winner; however, the “bright” palette was preferred by the largest proportion of people for both graphing generally (green below) and specifically when applied to the boxplot (purple) and network (orange) figures presented. In group meeting this past week, it was suggested that the pink be “more pink,” and I thought that was a great suggestion, so, without further adieu, the Leek Group color palette will be “bright” (&lt;em&gt;with slight pink adjustments&lt;/em&gt;):&lt;/p&gt;
+&lt;p&gt;There was no &lt;em&gt;overwhelmingly popular&lt;/em&gt; winner; however, the “bright” palette was preferred by the largest proportion of people for graphing generally (green above) and preferred by many when specifically applied to the boxplot (purple) and network (orange) figures presented. In group meeting this past week, it was suggested that the pink be “more pink,” and I thought that was a great suggestion, so, without further adieu, the Leek Group color palette will be “bright” (&lt;em&gt;with slight pink adjustments&lt;/em&gt;):&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;ShanEllis.github.io/images/bright.png&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;ShanEllis.github.io/images/bright.png&quot; width=&quot;250&quot; height=&quot;200&quot; /&gt;&lt;/center&gt;
 
 &lt;p&gt;As for the other plotting details for Leek Group graphs, you’ll just have to wait on the edge of your seats and see what &lt;a href=&quot;http://seankross.com/&quot;&gt;Sean&lt;/a&gt; comes up with!&lt;/p&gt;
 
 &lt;h4 id=&quot;color-preferences-by-sex&quot;&gt;Color Preferences by Sex&lt;/h4&gt;
 &lt;p&gt;Now…onto defending my honor.&lt;/p&gt;
 
-&lt;p&gt;First, when asked to select palettes in which all the colors included did not appear distinct at first glance, 25% of females and only 8.7% of males responded that all of the palettes appeared reasonably distinct (p&amp;lt;5e-05). Yes! Point Shannon.&lt;/p&gt;
+&lt;p&gt;First, when asked to select palettes in which all the colors included did not appear distinct at first glance, 25% of females and only 8.7% of males responded that all of the palettes appeared reasonably distinct (p&amp;lt;5e-05). Yes! Point Shannon.
+&lt;img src=&quot;ShanEllis.github.io/images/Blues.png&quot; alt=&quot;Blues&quot; /&gt;
+However, when presented with three images of blue dots (above) and asked the correct number of distinct colors in each image, we got the following results:
+&lt;img src=&quot;ShanEllis.github.io/images/Blues_mf.png&quot; alt=&quot;Blues_mf&quot; /&gt;
+Note: the actual number of distinct colors is 5, 7, and 7 respectively.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;ShanEllis.github.io/images/Blues.png&quot; alt=&quot;Blues&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;However, when presented with three images of blue dots (above) and asked the correct number of distinct colors in each image, we got the following results (below):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;ShanEllis.github.io/images/Blues_mf.png&quot; alt=&quot;Blues_mf&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Note: the actual number of distinct colors is 5, 7, and 7 respectively.&lt;/p&gt;
-
-&lt;p&gt;As evident in the graphs above, there is no large effect here. To break these results down anyway, in the middle image, I’ll note there was a tendency for females to get the correct answer (7). However, this effect is attenuated in graph to the right in which more males see the correct number of distinct colors (7) and more females see more distinct colors than are actually there (8 and 9…¯\_(ツ)_/¯?). I’ll concede to Jeff on this portion of the experiment that, in our experiment, there was no strong effect for color discrimination between males and females. Point Jeff.&lt;/p&gt;
+&lt;p&gt;As evident in the graphs above, when determining the number of distinct colors, there is no large difference between the sexes. But, I will break these results down anyway. In the middle plot, there is a tendency for females to get the correct answer (7) more often than men. However, this effect is attenuated in graph to the right in which more males see the correct number of distinct colors (7) and more females see more distinct colors than are actually there (8 and 9…¯\_(ツ)_/¯?). I guess I have to concede to Jeff. Here, there was no strong effect for color discrimination between males and females. Point Jeff.&lt;/p&gt;
 
 &lt;p&gt;Finally, while not about color discrimination, we did see sex preferences when broken down by color palette. Specifically, females showed the strongest preference (relative to males) for “bright”, “electric”, and “google” to males. Males, on the other hand had a preference for ‘spring’ and “summer” relative to females.&lt;/p&gt;
 
 &lt;h3 id=&quot;limitations&quot;&gt;Limitations&lt;/h3&gt;
 &lt;ol&gt;
-  &lt;li&gt;Males are disproportinately affected by colorblindess, an effect not accounted for in this analysis.&lt;/li&gt;
+  &lt;li&gt;Males are disproportionately affected by colorblindess, an effect not accounted for in this analysis.&lt;/li&gt;
   &lt;li&gt;Color palettes could certainly have been chosen in a more scientific manner and were by no means unbiased. (I know. I know. I am sorry &lt;em&gt;your&lt;/em&gt; favorite color palette was not included.)&lt;/li&gt;
-  &lt;li&gt;I received the following feedback from a friend: “i tried to do your google form about colors and i just ended up hating myself halfway through so i stopped.” Needless to say, I have no formal training in survey development, which could have biased who responded to the quiz. In the same vein, apologies to any and all whose days were negatively impacted by this quiz! Thank you for surrering in the name of &lt;del&gt;science&lt;/del&gt; curiosity.&lt;/li&gt;
+  &lt;li&gt;I received the following feedback from a friend: “i tried to do your google form about colors and i just ended up hating myself halfway through so i stopped.” Needless to say, I have no formal training in survey development, which could have biased who responded to the quiz. In the same vein, apologies to any and all whose days were negatively impacted by this quiz! Thank you for suffering in the name of our curiosity!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;discussion&quot;&gt;Discussion&lt;/h3&gt;
-&lt;p&gt;The last three things I want to mention that have not been covered above are as follows:&lt;/p&gt;
+&lt;h3 id=&quot;a-few-remaining-points-to-be-made&quot;&gt;A few remaining points to be made&lt;/h3&gt;
 &lt;ol&gt;
   &lt;li&gt;Clearly people have different preferences in how data are presented and in which palettes are most pleasing to their eyes. This is not surprising, but is certainly a conclusion supported by these data.&lt;/li&gt;
-  &lt;li&gt;Interestingly, when I posted the quiz to facebook, 75% of the 150 responses I received were from females. When Jeff Leek and Jeramia Ory (two male academics) tweeted this quiz out ~12 hours later, the response rate was disproportionately male. Again, while not wholly surprsing, this is another discussion for another day.&lt;/li&gt;
+  &lt;li&gt;Interestingly, when I posted the quiz to facebook, 75% of the 150 responses I received were from females. When Jeff Leek and Jeramia Ory (two male academics) tweeted this quiz out ~12 hours later, the response rate was disproportionately male. Again, while not wholly surprising, this is another discussion for another day.&lt;/li&gt;
   &lt;li&gt;Thanks to everyone who was interested enough in colors or bored enough scrolling through social media to take our quiz and a special thanks to &lt;a href=&quot;http://alyssafrazee.com/&quot;&gt;Alyssa Frazee&lt;/a&gt;, from whom I absolutely stole code from &lt;a href=&quot;https://github.com/alyssafrazee/RSkittleBrewer&quot;&gt;RSkittleBrwerR&lt;/a&gt; to generate the color palette images on the quiz.&lt;/li&gt;
 &lt;/ol&gt;
 </content>
