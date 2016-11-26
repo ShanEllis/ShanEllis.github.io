@@ -48,7 +48,7 @@ Note: the actual number of distinct colors is 5, 7, and 7 respectively.
 
 As evident in the graphs above, when determining the number of distinct colors, there is no large difference between the sexes. But, I will break these results down anyway. In the middle plot, there is a tendency for females to get the correct answer (7) more often than men. However, this effect is attenuated in graph to the right in which more males see the correct number of distinct colors (7) and more females see more distinct colors than are actually there (8 and 9...¯\\\_(ツ)_/¯?). I guess I have to concede to Jeff. Here, there was no strong effect for color discrimination between males and females. Point Jeff.
 
-Finally, while not about color discrimination, we did see sex preferences when broken down by color palette. Specifically, females showed the strongest preference (relative to males) for "bright", "electric", and "google" to males. Males, on the other hand had a preference for 'spring' and "summer" relative to females.
+Finally, while not about color discrimination, we did see sex preferences when broken down by color palette. Specifically, females showed the strongest preference (relative to males) for "bright", "electric", and "google" to males. Males, on the other hand had a preference for "spring" and "summer" relative to females.
  
 ### Limitations
 1. Males are disproportionately affected by colorblindess, an effect not accounted for in this analysis.  
