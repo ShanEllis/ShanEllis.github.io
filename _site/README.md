@@ -1,2 +1,2 @@
 # Shannon's Website
-View the website at http://ShanEllis.github.io.
+View the website at https://shanellis.github.io/
