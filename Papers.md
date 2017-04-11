@@ -8,9 +8,14 @@ More info on my [Google Scholar profile](https://scholar.google.com/citations?us
 
 
 ### Preprints 
-*  Collado-Torres L, Nellore A, Kammers K, Ellis SE, Taub MA Hansen KD, Jaffe AE Langmead B, Leek JT (2016) _recount: A large-scale resource of analysis-ready RNA-seq expression data_ bioRxiv doi: 10.1101/068478 [[link]](http://biorxiv.org/content/early/2016/08/08/068478) [[database]](https://jhubiostatistics.shinyapps.io/recount/) [[reproducible analysis]](http://leekgroup.github.io/recount-analyses/) [[software]](https://bioconductor.org/packages/devel/bioc/html/recount.html)
 
-* Ellis SE, Gupta S, Moes A, West AB, Arking DE (2016) _Exaggerated CpH Methylation in the Autism-Affected Brain_ bioRxiv doi: 10.1101/069120 [[link]](http://biorxiv.org/content/early/2016/08/15/069120)
+
+### 2017
+
+*  Collado-Torres L, Nellore A, Kammers K, Ellis SE, Taub MA Hansen KD, Jaffe AE Langmead B, Leek JT (2016) _Reproducible RNA-seq analysis using *recount2*_ Nature Biotechnology doi: 10.1038/nbt.3838 [[link]](http://www.nature.com/nbt/journal/v35/n4/full/nbt.3838.html) [[database]](https://jhubiostatistics.shinyapps.io/recount/) [[reproducible analysis]](http://leekgroup.github.io/recount-analyses/) [[software]](https://bioconductor.org/packages/devel/bioc/html/recount.html)
+
+* Ellis SE, Gupta S, Moes A, West AB, Arking DE (2016) _Exaggerated CpH Methylation in the Autism-Affected Brain_ Molecular Autism doi: 10.1186/s13229-017-0119-y [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5351204/)
+
 
 ### 2016
 * Ellis SE, Panitch R, West AB, Arking DE (2016) _Transcriptome analysis of cortical tissue reveals shared sets of downregulated genes in autism and schizophrenia_ Translational Psychiatry doi: 10.1038/tp.2016.87 [[link]](http://www.nature.com/tp/journal/v6/n5/abs/tp201687a.html)
