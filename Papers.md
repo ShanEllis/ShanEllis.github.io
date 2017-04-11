@@ -12,7 +12,7 @@ More info on my [Google Scholar profile](https://scholar.google.com/citations?us
 
 ### 2017
 
-*  Collado-Torres L, Nellore A, Kammers K, Ellis SE, Taub MA Hansen KD, Jaffe AE Langmead B, Leek JT (2016) _Reproducible RNA-seq analysis using *recount2*_ Nature Biotechnology doi: 10.1038/nbt.3838 [[link]](http://www.nature.com/nbt/journal/v35/n4/full/nbt.3838.html) [[database]](https://jhubiostatistics.shinyapps.io/recount/) [[reproducible analysis]](http://leekgroup.github.io/recount-analyses/) [[software]](https://bioconductor.org/packages/devel/bioc/html/recount.html)
+*  Collado-Torres L, Nellore A, Kammers K, Ellis SE, Taub MA Hansen KD, Jaffe AE Langmead B, Leek JT (2016) _Reproducible RNA-seq analysis using recount2_ Nature Biotechnology doi: 10.1038/nbt.3838 [[link]](http://www.nature.com/nbt/journal/v35/n4/full/nbt.3838.html) [[database]](https://jhubiostatistics.shinyapps.io/recount/) [[reproducible analysis]](http://leekgroup.github.io/recount-analyses/) [[software]](https://bioconductor.org/packages/devel/bioc/html/recount.html)
 
 * Ellis SE, Gupta S, Moes A, West AB, Arking DE (2016) _Exaggerated CpH Methylation in the Autism-Affected Brain_ Molecular Autism doi: 10.1186/s13229-017-0119-y [[link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5351204/)
 
