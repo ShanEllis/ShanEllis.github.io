@@ -10,6 +10,9 @@ I recently posted a [doodle on twitter](https://twitter.com/Shannon_E_Ellis/stat
 " target="_blank"><img src="https://ShanEllis.github.io/images/Slides.png" 
 alt="Do your slides...?" width="480" height="360" border="10" /></a></center>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I didn’t get much work done on the flight home from <a href="https://twitter.com/BIRS_Math">@BIRS_Math</a>, but I did doodle how to discern a researcher’s field from his/her slides… <a href="https://t.co/AUG9ohSbin">pic.twitter.com/AUG9ohSbin</a></p>&mdash; Shannon Ellis (@Shannon_E_Ellis) <a href="https://twitter.com/Shannon_E_Ellis/status/847899198523670530">March 31, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The response was overwhelming relative to my normal twitter response (which is, to be fair, almost nonexistent). While this was fun to make, what I've *actually* been thinking about for a while is: 
  <center> <h4>What makes a scientific talk good? </h4></center>
 As a postdoc in a [biostatistics department](http://www.jhsph.edu/departments/biostatistics/hop) at a school of public health who did her graduate work in [human genetics](https://igm.jhmi.edu/ki) at a school of medicine but her undergraduate work at a [liberal arts](https://www.kings.edu/) school in biology, I have been witness to *many* different types of presentations from *lots* of different types of scientists. Some have been incredible! Some have been less so. I've tried to keep track for a while now about what exactly makes those incredible presentations incredible.
