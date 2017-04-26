@@ -4,13 +4,9 @@ layout: post
 comments: yes
 ---
 
-I recently posted a [doodle on twitter](https://twitter.com/Shannon_E_Ellis/status/847899198523670530) depicting vastly overgeneralized characteristics of slides from talks across different scientific areas of research. 
+I recently tweeted a doodle depicting vastly overgeneralized characteristics of slides from talks across different scientific areas of research. 
 
-<center><a href="https://twitter.com/Shannon_E_Ellis/status/847899198523670530
-" target="_blank"><img src="https://ShanEllis.github.io/images/Slides.png" 
-alt="Do your slides...?" width="480" height="360" border="10" /></a></center>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I didn’t get much work done on the flight home from <a href="https://twitter.com/BIRS_Math">@BIRS_Math</a>, but I did doodle how to discern a researcher’s field from his/her slides… <a href="https://t.co/AUG9ohSbin">pic.twitter.com/AUG9ohSbin</a></p>&mdash; Shannon Ellis (@Shannon_E_Ellis) <a href="https://twitter.com/Shannon_E_Ellis/status/847899198523670530">March 31, 2017</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">I didn’t get much work done on the flight home from <a href="https://twitter.com/BIRS_Math">@BIRS_Math</a>, but I did doodle how to discern a researcher’s field from his/her slides… <a href="https://t.co/AUG9ohSbin">pic.twitter.com/AUG9ohSbin</a></p>&mdash; Shannon Ellis (@Shannon_E_Ellis) <a href="https://twitter.com/Shannon_E_Ellis/status/847899198523670530">March 31, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The response was overwhelming relative to my normal twitter response (which is, to be fair, almost nonexistent). While this was fun to make, what I've *actually* been thinking about for a while is: 
