@@ -8,6 +8,7 @@ More info on my [Google Scholar profile](https://scholar.google.com/citations?us
 
 
 ### Preprints 
+* Ellis SE and Leek JT (2017) _How to share data for collaboration_ PeerJ Preprints 5:e3139v2 [[link]](https://doi.org/10.7287/peerj.preprints.3139v2)
 * Ellis SE, Collado-Torres L, Jaffe AE, Leek JT (2017) _Improving the value of public RNA-seq expression data by phenotype prediction_ bioRxiv doi: https://doi.org/10.1101/145656 [[link]](http://biorxiv.org/content/early/2017/06/03/145656)
 * Andrews SV, Ellis SE, Bakulski KM, Sheppard B, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Feinberg AP, Arking DE, Ladd-Acosta C, Fallin MD (2017) _Cross-tissue integration of genetic and epigenetic data offers insight into autism spectrum disorder_ bioRxiv doi: https://doi.org/10.1101/091330 [[link]](http://biorxiv.org/content/early/2016/12/06/091330)
 
