@@ -13,3 +13,5 @@ Johns Hopkins University Bloomberg School of Public Health <br />
 615 N. Wolfe Street <br />
 Office E3011 <br />
 Baltimore, MD 21205-2179 <br />
+
+CV can be found [here](https://shanellis.github.io/Ellis_CV.pdf).
