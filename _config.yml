@@ -11,7 +11,7 @@ title:            Shannon Ellis
 tagline:          'Postdoctoral Fellow'
 description:      'You can also find me on  <a href="http://twitter.com/Shannon_E_Ellis">twitter</a> and <a href="https://github.com/ShanEllis">GitHub</a>.'
 url:              https://shanellis.github.io/
-baseurl:          /
+baseurl:
 
 author:
   name:           'Shannon Ellis'
