@@ -26,12 +26,12 @@ This model would then allow for separation in the references section. First, a s
 <span style="font-family:courier;"><strong>References</strong></span><br><br>
 
 <span style="font-family:courier;"><strong>Peer-Reviewed Research</strong></span> <br> 
-<span style="font-family:courier;">1. Ellis, Shannon E. Title. <em>Journal</em>. August 11, 2017.</span><br>   
-<span style="font-family:courier;">2. Ashar, Foram N. Title. <em>Journal</em>. July 11, 2017.</span> <br><br>
+<span style="font-family:courier;">1. Granger, Hermione. Title. <em>Journal</em>. August 11, 2017.</span><br>   
+<span style="font-family:courier;">2. Kringle, Kris. Title. <em>Journal</em>. Dec 25, 2016.</span> <br><br>
 
 <span style="font-family:courier;"><strong>Preprints</strong></span><br>  
-<span style="font-family:courier;">A. Ashar, Foram N. Title. <em>Preprint Journal</em>. August 11, 2017 [cited 2017 Sep 12]. www.url.to.preprint/####.</span><br>  
-<span style="font-family:courier;">B. Ellis, Shannon E. Title. <em>Preprint Journal</em>. September 4, 2017 [cited 2016 Sep 5]. www.url.to.preprint/####.}</span><br>
+<span style="font-family:courier;">A. Quimby, Ramona. Title. <em>Preprint Journal</em>. August 11, 2017 [cited 2017 Sep 12]. www.url.to.preprint/####.</span><br>  
+<span style="font-family:courier;">B. Prince, Diana. Title. <em>Preprint Journal</em>. September 4, 2017 [cited 2016 Sep 5]. www.url.to.preprint/####.}</span><br>
 </blockquote>
 
 Okay, so we've got a suggested update to the old model. What about problems that may arise as a result of these suggestions. Here are a few with some possible solution...
