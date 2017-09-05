@@ -40,8 +40,8 @@ Okay, so we've got a suggested update to the old model. What about problems that
 **Solution #1**: If it is a preprint being referenced, maybe a simple superscript would do the trick: [Ellis et al., 2017<sup>P</sup>], where P denotes preprint.
 
 **Problem #2**: Preprints often become peer-reviewed research. How will we keep track?  
-**Solution #2a** (if this occurs during while the *manuscript is being drafted*): It is up to the author(s) to ensure that their manuscript is as up to date as possible upon submission for publication.*   
-**Solution #2b** (if this occurs during while the manuscript is *under review*): Yup. Still the authors' responsibility*, but a reminder or tool to ensure accuracy from the publisher would be more than welcome.  
+**Solution #2a** (if this occurs during while the *manuscript is being drafted*): It is up to the author(s) to ensure that their manuscript is as up to date as possible upon submission for publication.\*   
+**Solution #2b** (if this occurs during while the manuscript is *under review*): Yup. Still the authors' responsibility\*, but a reminder or tool to ensure accuracy from the publisher would be more than welcome.  
 **Solution #2c** (if this occurs *post-publication*): If the preprint was cited and it later goes through peer review, that does not matter. You cited the preprint. You meant to reference the preprint.  
 \*I currently use [Zotero](https://www.zotero.org/) to track citations, but I would certainly switch my source manager to whichever best handles this new model should it be implemented. The citation manager that seamlessly identifies manuscripts that have since been peer-reviewed and has the capability to update my in-text citations and references section accordingly will gain a user....unless of course that manager is Zotero, in which case they keep a user!
 
