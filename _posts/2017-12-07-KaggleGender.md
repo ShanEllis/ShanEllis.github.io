@@ -205,4 +205,4 @@ The good news is that individuals across the gender spectrum are now able to mor
 
 ----
 #### Notes
-**Biological sex** can be defined as 'male' or 'female' and relates to the chromosomes in your cell. **Gender** is a social construct that is well-explained [here](https://www.nationalgeographic.com/magazine/2017/01/how-science-helps-us-understand-gender-identity/) with a glossary of terms [here](https://www.nationalgeographic.com/magazine/2017/01/explore-gender-glossary-terminology/). 
+***Biological sex** can be defined as 'male' or 'female' and relates to the chromosomes in your cell. **Gender** is a social construct that is well-explained [here](https://www.nationalgeographic.com/magazine/2017/01/how-science-helps-us-understand-gender-identity/) with a glossary of terms [here](https://www.nationalgeographic.com/magazine/2017/01/explore-gender-glossary-terminology/). 
