@@ -40,7 +40,7 @@ complete_data %>%
   geom_bar(stat = 'identity') + ylab('Percent') + 
   theme_solarized() +
   scale_x_discrete(labels = wrap_format(10))+
-  theme(axis.text = element_text(size = 18), axis.text.x = element_text(angle = 0, vjust = 0.5, hjust = 0.5), axis.title=element_text(size=18)) + 
+  theme(axis.text = element_text(size = 20), axis.text.x = element_text(angle = 0, vjust = 0.5, hjust = 0.5), axis.title=element_text(size=20)) + 
   ggtitle('Gender Distribution of Kaggle Survey Respondents')
 ```
 
@@ -91,7 +91,7 @@ complete_data %>%
   scale_fill_manual(values=c("#d33682","#2aa198"))+
   theme_solarized() +
   theme(axis.text = element_text(size = 12),
-        axis.title=element_text(size=12),
+        axis.title=element_text(size=16),
         axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
         legend.text=element_text(size=12)) +
   ggtitle('Country Distribution by Gender!=Male/Female Kaggle Survey Respondents') 
@@ -116,10 +116,10 @@ complete_data %>%
   geom_bar(aes(LanguageRecommendationSelect,count, fill = GenderSelect), stat = 'identity') +
   theme_solarized() +
   scale_fill_manual(values=c("#d33682","#6c71c4","#859900","#2aa198"))+
-  theme(axis.text = element_text(size = 12),
+  theme(axis.text = element_text(size = 14),
         axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
-        axis.title=element_text(size=12),
-        legend.text=element_text(size=12)) +
+        axis.title=element_text(size=14),
+        legend.text=element_text(size=14)) +
   ggtitle('Language Distribution By Gender of Kaggle Survey Respondents') 
   
 ```
@@ -141,10 +141,10 @@ complete_data %>%
   geom_bar(aes(LanguageRecommendationSelect,prop, fill = GenderSelect), stat = 'identity') +
   theme_solarized() +
   scale_fill_manual(values=c("#d33682","#6c71c4","#859900","#2aa198"))+
-  theme(axis.text = element_text(size = 12),
+  theme(axis.text = element_text(size = 16),
         axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
-        axis.title=element_text(size=12),
-        legend.text=element_text(size=12)) +
+        axis.title=element_text(size=16),
+        legend.text=element_text(size=14)) +
   ggtitle('Proportional Language Distribution by Gender of Kaggle Survey Respondents') 
 ```
 However, when we look at the proportional breakdown scaling for the number of individuals using each language, these data suggest that F# may be the language of choice for Non-binary, genderqueer, or gender non-conforming individuals. However, looking at the previous plot, this is reflective of the small sample size of F# users (N=4).
@@ -168,8 +168,8 @@ complete_data %>%
   scale_fill_manual(values=c("#d33682","#6c71c4","#859900","#2aa198"))+
   theme(axis.text = element_text(size = 12),
         axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
-        axis.title=element_text(size=12),
-        legend.text=element_text(size=12))+
+        axis.title=element_text(size=16),
+        legend.text=element_text(size=16))+
   ggtitle('Job Title of All Kaggle Survey Respondents') 
 ```
 ![](https://ShanEllis.github.io/kaggle-survey-2017/job.png)
@@ -192,8 +192,8 @@ complete_data %>%
   scale_fill_manual(values=c("#d33682","#6c71c4","#859900","#2aa198"))+
   theme(axis.text = element_text(size = 12),
         axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
-        axis.title=element_text(size=12),
-        legend.text=element_text(size=12)) +
+        axis.title=element_text(size=16),
+        legend.text=element_text(size=16)) +
   ggtitle('Proportional Job Title Distribution by Gender of Kaggle Survey Respondents') 
 ```
 
