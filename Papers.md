@@ -8,11 +8,13 @@ More info on my [Google Scholar profile](https://scholar.google.com/citations?us
 
 
 ### Preprints 
-* Ellis SE and Leek JT (2017) _How to share data for collaboration_. PeerJ Preprints 5:e3139v2 [[link]](https://doi.org/10.7287/peerj.preprints.3139v2)
 * Ellis SE, Collado-Torres L, Jaffe AE, Leek JT (2017) _Improving the value of public RNA-seq expression data by phenotype prediction_. bioRxiv doi: https://doi.org/10.1101/145656 [[link]](http://biorxiv.org/content/early/2017/06/03/145656)
-* Andrews SV, Ellis SE, Bakulski KM, Sheppard B, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Feinberg AP, Arking DE, Ladd-Acosta C, Fallin MD (2017) _Cross-tissue integration of genetic and epigenetic data offers insight into autism spectrum disorder_. bioRxiv doi: https://doi.org/10.1101/091330 [[link]](http://biorxiv.org/content/early/2016/12/06/091330)
 
 ### 2017
+
+* Andrews SV, Ellis SE, Bakulski KM, Sheppard B, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Feinberg AP, Arking DE, Ladd-Acosta C, Fallin MD (2017) _Cross-tissue integration of genetic and epigenetic data offers insight into autism spectrum disorder_. Nature Communications [[link]](https://www.nature.com/articles/s41467-017-00868-y)
+
+* Ellis SE and Leek JT (2017) _How to share data for collaboration_. The American Statistician. [[link]](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2017.1375987)
 
 *  Collado-Torres L, Nellore A, Kammers K, Ellis SE, Taub MA Hansen KD, Jaffe AE, Langmead B, Leek JT (2017) _Reproducible RNA-seq analysis using recount2_. Nature Biotechnology doi: 10.1038/nbt.3838 [[link]](http://www.nature.com/nbt/journal/v35/n4/full/nbt.3838.html) [[database]](https://jhubiostatistics.shinyapps.io/recount/) [[reproducible analysis]](http://leekgroup.github.io/recount-analyses/) [[software]](https://bioconductor.org/packages/devel/bioc/html/recount.html)
 
