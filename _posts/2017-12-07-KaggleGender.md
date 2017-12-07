@@ -31,7 +31,7 @@ complete_data <- read.csv("../kaggle-survey-2017/multipleChoiceResponses.csv",he
 From Abdul's original post, I noticed that there was a nonzero number of non-cisgender respondents.
 
 ```r
-# Gender distribtuion chart - borrowed from original post (just slightly increaed font size)
+# Gender distribtuion chart - borrowed from original post (just slightly increased font size)
 complete_data %>% 
   filter(GenderSelect!='') %>% 
   group_by(GenderSelect) %>% 
@@ -40,7 +40,7 @@ complete_data %>%
   geom_bar(stat = 'identity') + ylab('Percent') + 
   theme_solarized() +
   scale_x_discrete(labels = wrap_format(10))+
-  theme(axis.text = element_text(size = 14), axis.text.x = element_text(angle = 0, vjust = 0.5, hjust = 0.5), axis.title=element_text(size=14)) + 
+  theme(axis.text = element_text(size = 18), axis.text.x = element_text(angle = 0, vjust = 0.5, hjust = 0.5), axis.title=element_text(size=18)) + 
   ggtitle('Gender Distribution of Kaggle Survey Respondents')
 ```
 
