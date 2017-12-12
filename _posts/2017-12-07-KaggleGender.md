@@ -205,6 +205,6 @@ The good news is that individuals across the gender spectrum are now able to mor
 
 ----
 #### Notes
-\*In my original post I used the term 'non-cisgender' throughout; however as [Sharla Galfand](https://twitter.com/sharlagelfand?lang=en) graciously pointed out Twitter, many non-cis individuals, such as trans men and women, would have identified as either male or female, as that is their gender! I have changed the language throughout this post to refer to non-binary individuals when appropriate, rather than using the term non-cisgender. Thank you, Sharla!    
-\newline
+\*In my original post I used the term 'non-cisgender' throughout; however as [Sharla Galfand](https://twitter.com/sharlagelfand?lang=en) graciously pointed out Twitter, many non-cis individuals, such as trans men and women, would have identified as either male or female, as that is their gender! I have changed the language throughout this post to refer to non-binary individuals when appropriate, rather than using the term non-cisgender. Thank you, Sharla!  
+<br>
 \*\***Biological sex** can be defined as 'male' or 'female' and relates to the chromosomes in your cell. **Gender** is a social construct that is well-explained [here](https://www.nationalgeographic.com/magazine/2017/01/how-science-helps-us-understand-gender-identity/) with a glossary of terms [here](https://www.nationalgeographic.com/magazine/2017/01/explore-gender-glossary-terminology/). 
