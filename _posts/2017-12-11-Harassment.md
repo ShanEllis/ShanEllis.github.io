@@ -7,7 +7,7 @@ output:
 comments: yes
 ---
 
-2017 has taught us a lot. Among the many lessons, it's taught us (or maybe more accurately, reminded most of us) that sexual harassment is rampant. While Hollywood and politicians are most heavily under fire at this moment, to think that sexual harassment doesn't happen in one's own discipline would simply be naive. As an academic, I was happy to hear that The Chronicle of Higher Education was looking into cases of sexual harassment in higher education to hopefully change the field for the better.
+2017 has taught us a lot. Among the many lessons, it has taught us (or maybe more accurately, reminded most of us) that sexual harassment is rampant. While Hollywood and politicians are most heavily under fire at this moment, to think that sexual harassment doesn't happen in one's own discipline would simply be naive. As an academic, I was happy to hear that The Chronicle of Higher Education was looking into cases of sexual harassment in higher education to hopefully change the field for the better.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Chronicle is focusing on sexual harassment in higher education, and we&#39;d like to hear from you. Do you have a story to share? There are a few ways to contact us, and you can do so anonymously: <a href="https://t.co/wsOMkJLmAf">https://t.co/wsOMkJLmAf</a></p>&mdash; The Chronicle of Higher Education (@chronicle) <a href="https://twitter.com/chronicle/status/935901224125247489?ref_src=twsrc%5Etfw">November 29, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
