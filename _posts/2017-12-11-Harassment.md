@@ -1,6 +1,9 @@
 ---
 title: "Analyzing Sexual Harassment in Higher Education (Part 1)"
 layout: post
+output:
+  html_document: default
+  pdf_document: default
 comments: yes
 ---
 
@@ -76,7 +79,7 @@ a <- df %>%
   mutate(status = replace(status, status=='grad student', 'graduate student')) %>%
   mutate(status = replace(status, status=='grad student ', 'graduate student')) %>%
   mutate(status = replace(status, status=='grad student.', 'graduate student')) %>%
-    mutate(status = replace(status, status=='graduate student ', 'graduate student')) %>%
+  mutate(status = replace(status, status=='graduate student ', 'graduate student')) %>%
   mutate(status = replace(status, status=='undergrad', 'undergraduate student')) %>%
   mutate(status = replace(status, status=='undergrad ', 'undergraduate student')) %>%
   mutate(status = replace(status, status=='undergraduate', 'undergraduate student')) %>%
@@ -84,7 +87,7 @@ a <- df %>%
   mutate(status = replace(status, status=='undergrad student', 'undergraduate student')) %>%
   mutate(status = replace(status, status=='phd student ', 'phd student')) %>%
   mutate(status = replace(status, status=='ph.d student ', 'phd student')) %>%
-    mutate(status = replace(status, status=='ph.d student', 'phd student')) %>%
+  mutate(status = replace(status, status=='ph.d student', 'phd student')) %>%
   mutate(status = replace(status, status=='ph.d. student', 'phd student')) %>%
   mutate(status = replace(status, status=='assistant professor ', 'assistant professor')) %>%
   mutate(status = replace(status, status=='master\'s student', 'masters student')) %>%
@@ -219,7 +222,7 @@ ggplot(status_highlevel, aes(variable,y = (value / sum(value))*100)) +
 ```
 ![](https://ShanEllis.github.io/Sexual_Harassment/status.png)
 
-Here we see that survey participants were most frequently students when the incident(s) happened.
+Here we see that survey participants were most frequently students when the incident(s) happened. 
 
 # What Was the Status of the Perpetrator(s)...Particularly relative to you?
 
@@ -357,9 +360,9 @@ ggplot(perp_highlevel, aes(variable,y = (value / sum(value))*100)) +
 ```
 ![](https://ShanEllis.github.io/Sexual_Harassment/perp.png)
 
- # What Type of Institution Was It?
+# What Type of Institution Was It?
  
-When reporting the type of institution, survey participants reported experiencing sexual harassment at all types of institutions. While we could focus on the relative values, I'll note that there are not hte same numbers of institutions/agencies in each category. Further, there is likely some selection bias in those who have responded to the survey. For these two reasos, raw numbers likely don't tell the whole story. However, the fact that harassment occurs across the board is undeniable from these data.
+When reporting the type of institution, survey participants reported experiencing sexual harassment at all types of institutions. While we could focus on the relative values, I'll note that there are not the same numbers of institutions/agencies in each category. Further, there is likely some selection bias in those who have responded to the survey. For these two reasons, raw numbers likely don't tell the whole story. However, what we can conclude from these data is sexual harassment occurs across the board.
  
 ```r
   df %>% 
@@ -630,11 +633,13 @@ htmlTable(as.data.frame(field[1:15,]))
 
 ----
 ### Thank you
-* Thank you to everyone who shared their story. You're making a difference.
-* Thank you to [Karen Kelsky, PhD](https://twitter.com/search?q=karen+kelsky) for using her platform to help victims find a safe way to anonymously report sexual harassment.
+* Thank you to everyone who shared their story. You're making a difference. 
+* Thank you to [Karen Kelsky, PhD](https://twitter.com/search?q=karen+kelsky) for using her platform to help victims find a safe way to anonymously report sexual harassment. And, thank you for making these data available.
+
+### Limitations
+As with all analyses, there are limitations to the interpretation of these data. As mentioned in the post, there is selection bias in who responded to the survey. Participants likely do not perfectly represent academia. While not limited to individuals who follow Dr. Kelsky's blog, her readership likely influences who participated in this survey. Thus, while we cannot interpret these data to conclude in which field sexual harassment is most frequent, we can conclude that sexual harassment is wide-spread across many fields and read the stories of the participants who participated. Additionally, I pulled these data while the survey was still running. Values will likely change over time as a result. Finally, these are self-reported data, which have not been independently verified.
 
 ### Follow-up
-
 This is Part 1 of my analysis of these data. I plan to analyze people's stories and free text responses in more detail than I would have been able to do so sufficiently for a first blog post. If someone else beats me to this, awesome. The faster we are able to help victims of sexual harassment and understand how widespread this is in academia, the better.  
 
   
