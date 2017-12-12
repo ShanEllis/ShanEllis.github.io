@@ -15,9 +15,7 @@ comments: yes
 In addition to hearing victim's stories, as a data scientist, I personally wanted data to get an idea of *just* how wide-spread sexual harassment is in the academic world. As such, I am indebted to Dr. Karen Kelsky, for writing the survey used to accumulate the data for this analysis. Here, I have included a first-pass analysis of this [survey response data](https://docs.google.com/forms/d/e/1FAIpQLSeqWdpDxVRc-i8OiiClJPluIpjMlM41aUlU2E0rrQ4br_rQmA/viewform) on "Sexual Harassment in the Academy". The impetus for this survey was discussed by its author, Karen Kelsky, Ph.D. in the form of a [blog post on TheProfessorIsIn.com](https://theprofessorisin.com/2017/12/01/a-crowdsourced-survey-of-sexual-harassment-in-the-academy/) on December 1st, 2017. The data analyzed here includes all responses to the survey entered before 12:40 EST on December 11th, 2017.
 
 ```r
-install.packages("googlesheets")
 # load package
-library(googlesheets)
 library(dplyr)
 library(ggplot2)
 library(scales)
@@ -222,7 +220,7 @@ ggplot(status_highlevel, aes(variable,y = (value / sum(value))*100)) +
 ```
 ![](https://ShanEllis.github.io/Sexual_Harassment/status.png)
 
-Here we see that survey participants were most frequently students when the incident(s) happened. 
+Here we see that survey participants were most frequently students when the incident(s) happened. (Note: postdocs do not exist in every field. Their small number likely reflects this fact in both this graph and the graph below.)
 
 # What Was the Status of the Perpetrator(s)...Particularly relative to you?
 
