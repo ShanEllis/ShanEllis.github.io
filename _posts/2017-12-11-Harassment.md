@@ -449,6 +449,7 @@ Survey participants came from 463 unique fields. Participants most frequently re
 * Institutions frequently fail to respond to reports of sexual harassment.
 * Sexual harassment occurs across many fields and across all types of institutions.
 
+**Update** (Dec 14th, 2017 at 9:36PM EST): Given Kristian Lum's recent piece ['Statistics, we have a problem'](https://medium.com/@kristianlum/statistics-we-have-a-problem-304638dc5de5), I wanted to quickly update this post. As of today, there are 1,747 responses. 206 of these responses mention the word "conference" in either their response to "What Happened and When?" or "Other Comments you'd like to add."  **11.8\% of responses mention conferences.**
 
 ----
 ### Thank you
