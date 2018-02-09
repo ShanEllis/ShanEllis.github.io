@@ -14,7 +14,7 @@ As for right now, on my recent long flight, I realized that every project I've e
 
 These three phases have corresponded with a pretty clear relationship with anxiety over time:
 
-![]("https://ShanEllis.github.io/images/anxiety_time.png")
+![anxiety doodle]("https://ShanEllis.github.io/images/anxiety_time.png")
 
 I could be alone, but the negative thoughts and time ruminating that occur in the transition from I'm so excited to I'm very overwhelmed is mostly irrational, but to this point these have been unavoidable. I know I've rarely completely failed at a project. Sure, I've abandoned projects, but rarely has my abandoning a project had anything to do with my ability. However, without fail, when I approach something new, I spend a fair amount of time acknowledging that I don't know how to do what I've set out to do, even more time trying to jam all the information I possibly can into my brain about anything even *remotely* related to the topic at hand, some time making lists of things I think I need to do, and finally acknowledging that I've spent a lot of time worrying and a little time learning but haven't actually *done* anything yet. 
 
