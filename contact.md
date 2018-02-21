@@ -4,7 +4,7 @@ title: Contact
 ---
 
 
-I can be best reached by email at **sellis18 at jhmi dot edu**, but you can also find me on twitter (**@Shannon_E_Ellis**) or in my office (**JHSPH E3011**).
+I can be best reached by email at **sellis18@jhmi.edu**, but you can also find me on twitter (**@Shannon_E_Ellis**) or in my office (**JHSPH E3011**).
 
 Mailing Address:
 
