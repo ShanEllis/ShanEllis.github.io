@@ -19,6 +19,9 @@ author:
 
 paginate:         1
 
+favicon_img: yes
+favicon_img_path: "images/S.ico"
+
 # Custom vars
 version:          2.0.0
 
