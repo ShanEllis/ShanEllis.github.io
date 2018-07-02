@@ -7,12 +7,13 @@ title: Papers
 More info on my [Google Scholar profile](https://scholar.google.com/citations?user=G5cAVdkAAAAJ&hl=en)
 
 
-### Preprints 
-* Ellis SE, Collado-Torres L, Jaffe AE, Leek JT (2017) _Improving the value of public RNA-seq expression data by phenotype prediction_. bioRxiv doi: https://doi.org/10.1101/145656 [[link]](http://biorxiv.org/content/early/2017/06/03/145656)
+### 2018
+ 
+* Ellis SE, Collado-Torres L, Jaffe AE, Leek JT (2017) _Improving the value of public RNA-seq expression data by phenotype prediction_. Nucleic Acids Research. [[link]](https://doi.org/10.1093/nar/gky102)
 
 ### 2017
 
-* Andrews SV, Ellis SE, Bakulski KM, Sheppard B, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Feinberg AP, Arking DE, Ladd-Acosta C, Fallin MD (2017) _Cross-tissue integration of genetic and epigenetic data offers insight into autism spectrum disorder_. Nature Communications [[link]](https://www.nature.com/articles/s41467-017-00868-y)
+* Andrews SV, Ellis SE, Bakulski KM, Sheppard B, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Feinberg AP, Arking DE, Ladd-Acosta C, Fallin MD (2017) _Cross-tissue integration of genetic and epigenetic data offers insight into autism spectrum disorder_. Nature Communications. [[link]](https://www.nature.com/articles/s41467-017-00868-y)
 
 * Ellis SE and Leek JT (2017) _How to share data for collaboration_. The American Statistician. [[link]](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2017.1375987)
 
