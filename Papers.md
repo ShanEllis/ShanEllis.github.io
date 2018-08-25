@@ -9,7 +9,7 @@ More info on my [Google Scholar profile](https://scholar.google.com/citations?us
 
 ### 2018
  
-* Ellis SE, Collado-Torres L, Jaffe AE, Leek JT (2017) _Improving the value of public RNA-seq expression data by phenotype prediction_. Nucleic Acids Research. [[link]](https://doi.org/10.1093/nar/gky102)
+* Ellis SE, Collado-Torres L, Jaffe AE, Leek JT (2018) _Improving the value of public RNA-seq expression data by phenotype prediction_. Nucleic Acids Research. [[link]](https://doi.org/10.1093/nar/gky102)
 
 ### 2017
 
